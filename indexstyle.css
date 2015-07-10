@@ -1,7 +1,14 @@
 h1{
-    font-size: xx-large;
+    font-size: 60px;
+    font-family: "Brush Script MT", sans-serif;
     color:#003366;
     text-align: center;
+}
+
+.boxclass{
+    background-color: snow;
+    padding:30px;
+    border: double 10px #003366;
 }
 
 .imageclass{
@@ -26,6 +33,6 @@ button{
     border: solid 5px #003366;
 }
 
-p{
+.textclass{
     color: #003366;
 }
