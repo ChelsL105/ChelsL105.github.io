@@ -1,0 +1,31 @@
+h1{
+    font-size: xx-large;
+    color:#003366;
+    text-align: center;
+}
+
+.imageclass{
+    border: solid 5px #003366;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+button{
+    font-size: xx-large;
+    background-color: snow;
+}
+
+#nav{
+    line-height: 30px;
+    background-color: #E0FFA3;
+    height: 100px;
+    width: 200px;
+    float: left;
+    padding: 10px;
+    border: solid 5px #003366;
+}
+
+p{
+    color: #003366;
+}
