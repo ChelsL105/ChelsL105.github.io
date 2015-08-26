@@ -3,21 +3,46 @@ h1{
     font-family: "Brush Script MT", sans-serif;
     color:#003366;
     text-align: center;
+    margin: 20px;
 }
 
 .boxclass{
     background-color: snow;
     padding:15px;
     border: double 7px #003366;
+    color: #003366;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.boxclass p {
+    font-size: 20px;
+}
+
+.boxclass h2 {
+    font-size: 26px;
 }
 
 .imageclass{
     border: solid 3px #003366;
     margin-left: auto;
     margin-right: auto;
-    display: block;
+    height: 325px;
+    display: inline-block;
+    position: relative;
 }
 
-.textclass{
-    color: #003366;
+.navclass{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.navclass img {
+    width: 19%;
+}
+
+.navclass a {
+    text-decoration: none;
 }
