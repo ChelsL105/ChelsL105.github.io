@@ -29,6 +29,12 @@ h1{
 .boxclass img { 
     height: 325px;
 }
+
+body {
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+
 .imageclass{
     border: solid 3px #003366;
     margin-left: auto;
