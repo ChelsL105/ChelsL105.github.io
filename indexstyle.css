@@ -26,9 +26,8 @@ h1{
     font-size: 26px;
 }
 
-.boxclass img {
-    image-orientation: 90deg; 
-    height: 250px;
+.boxclass img { 
+    height: 325px;
 }
 .imageclass{
     border: solid 3px #003366;
