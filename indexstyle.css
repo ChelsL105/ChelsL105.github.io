@@ -35,9 +35,8 @@ h1{
 body {
     background-image: url('Wildflower4.jpg');
     background-repeat:no-repeat;
-    background-size: auto;
-    width: auto;
-    height: auto;
+    background-size: 100%;
+    width: 100%;
 }
 
 .imageclass{
