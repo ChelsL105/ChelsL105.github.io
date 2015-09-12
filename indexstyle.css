@@ -9,12 +9,14 @@ h1{
 
 .boxclass{
     background-color: snow;
-    padding:15px;
+    padding:50px;
     border: double 7px #003366;
     color: #003366;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
     width: 80%;
 }
 
@@ -33,7 +35,7 @@ h1{
 body {
     background-repeat:no-repeat;
     background-attachment: fixed;
-    background-size: 500%;
+    background-size: auto;
 }
 
 .imageclass{
